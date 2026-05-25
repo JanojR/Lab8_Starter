@@ -7,4 +7,4 @@ Graceful degradation and Service Workers are related because Service Workers in 
 
 ## Hosted site  
 https://janojr.github.io/Lab8_Starter/  
-!(pwa.png)[pwa.png]
+![PWA screenshot](pwa.png)
